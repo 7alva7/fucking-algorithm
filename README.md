@@ -37,13 +37,8 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 Gitbook 地址：https://labuladong.gitbook.io/algo/
 
-2、建议关注我的公众号 **labuladong**，坚持高质量原创，说是最良心最硬核的技术公众号都不为过。本仓库的文章就是从公众号里整理出来的**一部分**内容，公众号后台回复关键词【电子书】可以获得这份小抄的完整版本；回复【加群】可以加入我们的刷题群，和大家一起讨论算法问题，分享内推机会：
 
-<p align='center'>
-<img src="https://gitee.com/labuladong/pictures/raw/master/qrcode.jpg" width = "200" />
-</p>
-
-4、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)。
+3、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)。
 
 我一直在写优质文章，但是后续的文章只发布到公众号/gitbook/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
 
